@@ -2,6 +2,8 @@
 ### Sparks Foundation Internship Project : Basic Banking System, A Web Application used to transfer money between multiple users.  
 
 - (DEMO)[https://basic-banking-system-phi.vercel.app/]
+  
+- (Self_Video)[https://www.linkedin.com/feed/update/urn:li:activity:7118704334414000128/?originTrackingId=D0A0stG2Qjub0o6ntoZ18g%3D%3D]
 
 ### Stack used - 
 - Front-end : HTML, CSS, Bootstrap & Javascript 
